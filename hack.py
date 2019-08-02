@@ -1,1 +1,1 @@
-print("Hello, practicing VCS on PyCharm")
+print("Hello, practicing VCS on Python")
